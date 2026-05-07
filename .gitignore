@@ -1,0 +1,13 @@
+# Binários
+*.exe
+*.o
+
+# Pastas do SDK (Não se enviam bibliotecas externas)
+Include/
+Lib/
+
+# Capturas de rede (Podem conter dados privados teus)
+*.pcap
+
+# VS Code
+.vscode/
